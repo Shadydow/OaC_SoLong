@@ -1,0 +1,17 @@
+body {
+    background-color: #54A735
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#p1 {
+    font-style: marker-felt;
+}
+#tank {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
